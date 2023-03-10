@@ -1,0 +1,27 @@
+a {
+  font-weight: 500;
+  color: white;
+  text-decoration: inherit;
+  transition: 0.5s all;
+}
+
+.header {
+  width: 100%;
+  background-color: rgb(5, 5, 153);
+  padding-top: 30px;
+  height: 60px;
+}
+
+.menu-list {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 0;
+
+  margin: 0;
+  margin-left: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
